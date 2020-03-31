@@ -17,7 +17,6 @@ int _tmain(int argc, _TCHAR* argv[])
 	int Width, Height;
 	long Size, new_size, new_size2;
 
-	cout << "Haydi Bismillah" << endl;
 	input = L"C://Users//pc//Desktop//a//aaa.bmp";
 
 	
